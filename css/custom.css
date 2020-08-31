@@ -1,0 +1,10 @@
+.heading {
+  font-size: 40px;
+  overflow-wrap: normal;
+}
+
+@media screen and (min-width: 750px) {
+  .heading {
+    font-size: 80px;
+  }
+}

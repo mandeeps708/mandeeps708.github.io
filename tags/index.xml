@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Mandeep Singh</title>
-    <link>https://mandeeps708.github.io/tags/</link>
+    <link>https://blog.mandeeps.me/tags/</link>
     <description>Recent content in Tags on Mandeep Singh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 30 Aug 2020 22:46:18 +0530</lastBuildDate>
     
-	<atom:link href="https://mandeeps708.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.mandeeps.me/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>css</title>
-      <link>https://mandeeps708.github.io/tags/css/</link>
+      <link>https://blog.mandeeps.me/tags/css/</link>
       <pubDate>Sun, 30 Aug 2020 22:46:18 +0530</pubDate>
       
-      <guid>https://mandeeps708.github.io/tags/css/</guid>
+      <guid>https://blog.mandeeps.me/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>https://mandeeps708.github.io/tags/html/</link>
+      <link>https://blog.mandeeps.me/tags/html/</link>
       <pubDate>Sun, 30 Aug 2020 22:46:18 +0530</pubDate>
       
-      <guid>https://mandeeps708.github.io/tags/html/</guid>
+      <guid>https://blog.mandeeps.me/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markdown</title>
-      <link>https://mandeeps708.github.io/tags/markdown/</link>
+      <link>https://blog.mandeeps.me/tags/markdown/</link>
       <pubDate>Sun, 30 Aug 2020 22:46:18 +0530</pubDate>
       
-      <guid>https://mandeeps708.github.io/tags/markdown/</guid>
+      <guid>https://blog.mandeeps.me/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>https://mandeeps708.github.io/tags/themes/</link>
+      <link>https://blog.mandeeps.me/tags/themes/</link>
       <pubDate>Sun, 30 Aug 2020 22:46:18 +0530</pubDate>
       
-      <guid>https://mandeeps708.github.io/tags/themes/</guid>
+      <guid>https://blog.mandeeps.me/tags/themes/</guid>
       <description></description>
     </item>
     
